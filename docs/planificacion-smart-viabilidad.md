@@ -218,5 +218,3 @@ Finalmente, la aplicación de eduScrum, el seguimiento en GitHub y la colaboraci
 - GitHub. (s. f.). *GitHub Docs*. https://docs.github.com/
 - Stellar Development Foundation. (s. f.). *Stellar Community Fund*. https://communityfund.stellar.org/
 - Drips Protocol. (s. f.). *Drips*. https://www.drips.network/
-
-**Nota para la entrega:** antes de presentar el documento, verifica que las cifras de historias de usuario, horas de CoQ y costos coincidan con los registros reales de los Sprints y con las instrucciones del docente. También conviene revisar la vigencia y los requisitos de los programas de financiamiento antes de afirmar que son opciones disponibles para el proyecto.
